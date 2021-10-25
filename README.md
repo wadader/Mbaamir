@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @Mbaamir
+- 👀 I’m interested in Front-End development, web technologies and making stunning websites.
+- 🌱 I’m currently learning the ins and outs of React, Front-End development and web techs in general.
+- 💞️ I’m looking to collaborate with people using Web Technologies to make the world a better place
+- 📫 Reach me at my mail: ms.bin.aamir@gmail.com
